@@ -34,6 +34,7 @@ Implementation
 
 Created a departmental OU hierarchy to organise Active Directory objects.
 
+```text
 corp.example.test
 └── Northbridge
     ├── Employees
@@ -41,6 +42,7 @@ corp.example.test
     │   ├── IT
     │   └── Sales
     └── Workstations
+```
 
 Organisational units enable logical organisation of directory objects and provide a foundation for administrative delegation and Group Policy.
 
